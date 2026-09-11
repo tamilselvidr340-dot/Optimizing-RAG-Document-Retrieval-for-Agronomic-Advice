@@ -91,22 +91,26 @@ version this was refactored from.
 
 ## Repository Structure
 
-```
+Optimizing-RAG-Document-Retrieval-for-Agronomic-Advice/
+│
 ├── README.md
-├── requirements.txt
-├── docs/           # Four Cohort Challenges (see below)
-├── data/           # Download instructions (raw data not redistributed)
-├── notebooks/       # Exploratory / development notebooks
-├── src/            # Reproduction pipeline scripts
-└── results/        # Validation predictions + evaluation output
-```
+├── docs/
+│   ├── problem_statement.pdf
+│   ├── data_card.pdf
+│   ├── impact_statement_card.pdf
+│   ├── stakeholder_engagement.pdf
+│   └── presentation_slides.pdf
+├── scripts/
+│   └── [all project scripts/code]
+└── data/
+    └── [project data]
 
 ## Cohort Challenges
 
-- [Challenge 1 — Problem Statement](Structured%20Research%20Problem%20Statement%20(TANGANYIKA%20GROUP).docx)
-- [Challenge 2 — Data Card](Tanganyika%20Datacard%20for%20RAG%20optimization.pdf)
-- [Challenge 3 — Impact Statement](Challenge_3_Impact_Statement_Optimising_RAG_Agronomic_Advice.pdf)
-- [Challenge 4 — Stakeholder Engagement Plan](Challenge_4_Stakeholder_Engagement_Plan_Agronomic_RAG.pdf)
+- [Challenge 1 — Problem Statement](docs/problem_statement.pdf)
+- [Challenge 2 — Data Card](docs/data_card.pdf)
+- [Challenge 3 — Impact Statement](docs/impact_statement_card.pdf)
+- [Challenge 4 — Stakeholder Engagement Plan](docs/stakeholder_engagement.pdf)
 
 ## Values & Responsible AI
 
@@ -121,12 +125,17 @@ evidence of readiness for real-world farmer deployment; see
 
 ## Appendix: Contributors & Mentors
 
-| Name | Role |
-|---|---|
-| _Add name_ | Team Lead |
-| _Add name_ | Team Member |
-| _Add name_ | Team Member |
-| _Add name_ | Mentor |
+
+Team Members
+Haliat Sadia Yakubu (Leader 1)
+Onilude Sulaiman Boluwatife (Leader 2)
+Cosmas Kungu
+Raja Tamil Selvi A
+Akpo Patrica Uyeh
+Jemimah Quadri
+Daniel Ogunsanya
+Ajayi Oluwadamilare
+
 
 Program: Tri AI Saturdays Lagos — .
 
