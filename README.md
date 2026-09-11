@@ -6,8 +6,8 @@ agricultural extension documents — covering crop diseases, pests, nutrient
 deficiencies, soil management, fertilizers, and climate adaptation.
 
 Built for the Kaggle competition
-[agricultural-extension-rag-smart-retrieval-for-farmers](https://www.kaggle.com/competitions/agricultural-extension-rag-smart-retrieval-for-farmers)
-(host: TRI AI), as part of AI Saturdays Lagos Cohort 9.
+[agricultural-extension-rag-smart-retrieval-for-farmers]https://www.kaggle.com/competitions/agricultural-extension-rag-smart-retrieval-for-farmers
+(host: TRI AI), as part of AI Saturdays Lagos Cohort 10.
 
 ## Overview
 
@@ -16,7 +16,7 @@ turning yellow?") while extension documents use technical terminology
 ("nitrogen chlorosis"). This vocabulary mismatch causes keyword-based
 retrieval to miss or misrank relevant documents. This project implements a
 hybrid retrieval pipeline — BM25 fused with sentence-transformer dense
-embeddings, followed by cross-encoder reranking — and evaluates it against
+embeddings, followed by cross-encoder reranking  and evaluates it against
 the competition's provided TF-IDF baseline to close that gap and improve
 ranking quality.
 
@@ -128,7 +128,7 @@ evidence of readiness for real-world farmer deployment; see
 | _Add name_ | Team Member |
 | _Add name_ | Mentor |
 
-Program: AI Saturdays Lagos — Machine Learning Cohort 9.
+Program: Tri AI Saturdays Lagos — .
 
 ## References
 
