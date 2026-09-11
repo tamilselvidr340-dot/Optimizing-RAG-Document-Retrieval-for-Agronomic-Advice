@@ -6,7 +6,7 @@ agricultural extension documents — covering crop diseases, pests, nutrient
 deficiencies, soil management, fertilizers, and climate adaptation.
 
 Built for the Kaggle competition
-[agricultural-extension-rag-smart-retrieval-for-farmers]https://www.kaggle.com/competitions/agricultural-extension-rag-smart-retrieval-for-farmers
+[[agricultural-extension-rag-smart-retrieval-for-farmers]](https://www.kaggle.com/competitions/agricultural-extension-rag-smart-retrieval-for-farmers)
 (host: TRI AI), as part of AI Saturdays Lagos Cohort 10.
 
 ## Overview
