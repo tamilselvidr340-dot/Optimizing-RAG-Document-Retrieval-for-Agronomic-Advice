@@ -103,10 +103,10 @@ version this was refactored from.
 
 ## Cohort Challenges
 
-- [Challenge 1 — Problem Statement](docs/Challenge_1_Problem_Statement.docx)
-- [Challenge 2 — Data Card](docs/Challenge_2_Data_Card.pdf)
-- [Challenge 3 — Impact Statement](docs/Challenge_3_Impact_Statement.pdf)
-- [Challenge 4 — Stakeholder Engagement Plan](docs/Challenge_4_Stakeholder_Engagement_Plan.pdf)
+- [Challenge 1 — Problem Statement](Structured%20Research%20Problem%20Statement%20(TANGANYIKA%20GROUP).docx)
+- [Challenge 2 — Data Card](Tanganyika%20Datacard%20for%20RAG%20optimization.pdf)
+- [Challenge 3 — Impact Statement](Challenge_3_Impact_Statement_Optimising_RAG_Agronomic_Advice.pdf)
+- [Challenge 4 — Stakeholder Engagement Plan](Challenge_4_Stakeholder_Engagement_Plan_Agronomic_RAG.pdf)
 
 ## Values & Responsible AI
 
